@@ -1,0 +1,11 @@
+c:\users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+c:\users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+c:\users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+c:\users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+c:\users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+c:\users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.Cache
+c:\users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+c:\users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+C:\Users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.csprojResolveAssemblyReference.cache
+C:\Users\jy\documents\visual studio 2012\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.Form2.resources
